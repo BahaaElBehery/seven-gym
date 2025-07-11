@@ -6,7 +6,7 @@ import GymProgress from "../components/Home/GymProgress";
 import { useTranslation } from "react-i18next";
 
 const Home = () => {
-  const CountGym_Members = 20;
+  const CountGym_Members = 10;
   const { t } = useTranslation();
   return (
     <>
@@ -17,7 +17,7 @@ const Home = () => {
       />
 
       <GymProgress
-        percentage={20}
+        percentage={10}
         text={t("community_count", { count: CountGym_Members })}
       />
       <Section />

@@ -32,7 +32,7 @@ const Sec_OurClasses = () => {
               <img
                 src="/Images/class-4.jpg"
                 alt=""
-                className="w-full rounded-md"
+                className="w-full h-full rounded-md object-cover bg-center"
               />
               <div className="flex flex-col *:mt-4">
                 <h2 className="text-xl text-orange-500 max-sm:text-lg">
