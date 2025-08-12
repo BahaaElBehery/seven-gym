@@ -8,8 +8,8 @@ const About_Us = () => {
   return (
     <>
       <SwiperSec
-        img2="/Images/about-us.jpeg"
-        img1={`/Images/about-us2.jpeg`}
+        img1="/Images/about-us.jpeg"
+        img2={`/Images/about-us2.jpeg`}
         img3={`/Images/about-us3.jpeg`}
       />
       <Equipment_Sec />

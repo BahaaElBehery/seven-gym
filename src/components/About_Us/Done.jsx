@@ -7,7 +7,7 @@ const Done = () => {
         <img
           src="/Images/right-side.png"
           alt=""
-          className="w-full h-[500px] object-contain bg-center "
+          className="w-full h-[500px] object-contain bg-center max-lg:h-full"
         />
       </div>
       <RightSide />

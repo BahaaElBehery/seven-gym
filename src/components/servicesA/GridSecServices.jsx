@@ -4,6 +4,8 @@ import GridServices from "./GridServices";
 import { useTranslation } from "react-i18next";
 const GridSecServices = () => {
   const { t } = useTranslation();
+  const PhoneNumber = `https://wa.me/201115374045?text=مرحباً%20أريد%20الاستفسار%20عن%20الاشتراك`;
+
   return (
     <div className="w-11/12 mx-auto mt-20 flex flex-col gap-10">
       <Whychoose title={t(`What We Do`)} desc={t(`Push Your Limits Forward`)} />
