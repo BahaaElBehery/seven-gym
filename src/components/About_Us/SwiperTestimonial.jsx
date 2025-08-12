@@ -9,16 +9,22 @@ import { useTranslation } from "react-i18next";
 
 const testimonials = [
   {
-    name: "Bahaa El Behery",
+    name: "Ahmed Ayman",
     text: "At Seven Gym, beauty isn’t just in the design — it’s in every detail of the experience. From the moment you walk in, you feel welcomed, respected, and truly supported. With modern equipment, high organization, cleanliness, and elegance, working out becomes a joy. Our clients always praise the safety, comfort, and motivation they find here, and they feel a real sense of belonging. Seven Gym isn’t just a gym — it’s a premium experience that combines quality, variety, and genuine care for every individual.",
     image: "/Images/489959772_2390956264593592_6062955516007846664_n.jpg",
     stars: 5,
   },
 
   {
-    name: "Abdelrahman Mohamed",
+    name: "Ahmed Abdo",
     text: "Seven Gym goes beyond just fitness — it’s where passion meets professionalism. Every session is more than a workout; it’s an experience shaped by world-class equipment, a clean and motivating environment, and a team that truly cares. Members feel inspired, valued, and empowered to reach their goals. It’s not just about muscles — it’s about mindset, progress, and community.",
     image: "/Images/file.enc",
+    stars: 4,
+  },
+  {
+    name: "Mohamed Alaa",
+    text: "Seven Gym isn’t just a place to train — it’s where passion meets professionalism. Every workout is more than just physical effort; it’s a complete experience with world-class equipment, spotless cleanliness, an inspiring atmosphere, and a team that truly cares. Here, you’ll feel motivated, valued, and ready to achieve your goals. It’s not just about muscles — it’s about mindset, progress, and team spirit.",
+    image: "/Images/m.alaa.enc",
     stars: 4,
   },
 ];

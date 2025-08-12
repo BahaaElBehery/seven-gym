@@ -108,7 +108,11 @@ const Header = () => {
         </div>
 
         {/* haburger icon  */}
-        <HamburgerIcon control={() => setPopup((prev) => !prev)} />
+        <div className="max-lg:flex gap-3 items-center justify-center hidden">
+          <HamburgerIcon control={() => setPopup((prev) => !prev)} />
+          <span className="w-0.5 h-8 bg-white rounded-full"></span>
+          <Translate color={"white"} />
+        </div>
       </header>
 
       {/* responsive design header */}
@@ -142,16 +146,17 @@ const Header = () => {
               })}
               <div className="flex gap-3 items-center justify-center" dir="ltr">
                 {/* facebook svg */}
-                <Facebook color={"black"} />
+                <Link
+                  to={`https://www.facebook.com/profile.php?id=100091750982701`}
+                >
+                  <Facebook color={"black"} />
+                </Link>
                 {/* insta svg */}
                 <Insta color={"black"} />
                 {/* x svg */}
                 <X color={"black"} />
               </div>
               {/* HanDle Lang */}
-              <div className="flex items-center justify-center mt-10">
-                <Translate color={"black"} />
-              </div>
             </div>
           </div>
         </div>

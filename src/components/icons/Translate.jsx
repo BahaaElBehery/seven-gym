@@ -19,7 +19,7 @@ const Translate = ({ color }) => {
         strokeLinejoin="round"
         width="30"
         height="30"
-        className="text-white cursor-pointer"
+        className="to-white cursor-pointer"
         onClick={toggleLanguage}
       >
         <path d="M21 12a9 9 0 1 0-18 0 9 9 0 0 0 18 0Z" />

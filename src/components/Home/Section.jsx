@@ -9,7 +9,7 @@ const Section = () => {
       <Regestration_Now />
       <ChooseYour_Pricing />
 
-      <div className="grid grid-cols-2 max-md:grid-cols-1 mt-20 *:w-full *:h-full">
+      <div className="grid grid-cols-2 max-md:grid-cols-1 mt-20 *:w-full *:h-[500px] *:object-cover">
         <img src="/Images/swiper-3.jpeg" alt="" loading="lazy" />
         <img src="/Images/sec-2.jpg" alt="" loading="lazy" />
         <img src="/Images/sec-3.avif" alt="" loading="lazy" />
