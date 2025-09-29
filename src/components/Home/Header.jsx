@@ -40,7 +40,7 @@ const Header = () => {
   return (
     <>
       <header
-        className="max-w-[2000px] px-10 max-sm:px-5 py-8 flex items-center justify-between w-full absolute top-0 start-0 z-[50] text-white  max-lg:z-[100]"
+        className="bg-black/30 max-w-[2000px] px-10 max-sm:px-5 py-5 flex items-center justify-between w-full absolute top-0 start-0 z-[50] text-white  max-lg:z-[100]"
         dir="ltr"
       >
         {/* sec 01 */}
@@ -49,7 +49,7 @@ const Header = () => {
           to={`/`}
         >
           <h1
-            className={`text-4xl max-sm:text-2xl font-extrabold tracking-[15px] text-center`}
+            className={`text-2xl max-sm:text-2xl font-extrabold tracking-[15px] text-center`}
           >
             <span className={`${popup ? "text-black" : "text-white"}`}>
               SEVEN
@@ -90,7 +90,7 @@ const Header = () => {
           <div className="flex items-center  justify-center gap-3">
             {/* svg for translate */}
             <Translate color={"white"} />
-            <span className="bg-gray-500 w-[2px] h-[18px] rounded-full"></span>
+            <span className="bg-white w-[2px] h-[18px] rounded-full"></span>
           </div>
           <div className="flex items-center justify-center gap-3 *:cursor-pointer">
             {/* facebook svg */}
