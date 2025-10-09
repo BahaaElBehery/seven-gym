@@ -20,6 +20,7 @@ const Home = () => {
         percentage={8}
         text={t("community_count", { count: CountGym_Members })}
       />
+
       <Section />
     </>
   );

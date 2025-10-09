@@ -106,5 +106,43 @@
   "Behind every transformation, there’s a personal trainer who believed in you before you believed in yourself.": "ورا كل تغيير حقيقي، في مدرب شخصي كان مؤمن بيك قبل ما تكون مؤمن بنفسك.",
   "Strength training isn't just about lifting weights – it's about lifting your confidence, resilience, and power in life.": "تدريب القوة مش مجرد رفع أوزان، ده رفع لثقتك، وصمودك، وقوتك في الحياة.",
   "Bodybuilding is an art – your body is the canvas, and every rep is a brushstroke shaping a masterpiece.": "كمال الأجسام هو فن، وجسمك هو اللوحة، وكل عدة هي لمسة فرشاة بتشكل تحفة فنية.",
-  "Seven Gym isn’t just a place to train — it’s where passion meets professionalism. Every workout is more than just physical effort; it’s a complete experience with world-class equipment, spotless cleanliness, an inspiring atmosphere, and a team that truly cares. Here, you’ll feel motivated, valued, and ready to achieve your goals. It’s not just about muscles — it’s about mindset, progress, and team spirit.": "سيڤن جيم مش مجرد مكان تتمرن فيه — ده المكان اللي الشغف فيه بيقابل الاحترافية. كل تمرينة مش بس مجهود بدني، دي تجربة كاملة بأحدث الأجهزة العالمية، ونظافة تحفزك، وجو مشجع، وفريق بيهتم بيك فعلًا. هنا هتحس بالإلهام والقيمة، وهتلاقي نفسك قادر تحقق أهدافك. الموضوع مش بس عضلات — ده عقلية، وتطور، وروح فريق."
+  "Seven Gym isn’t just a place to train — it’s where passion meets professionalism. Every workout is more than just physical effort; it’s a complete experience with world-class equipment, spotless cleanliness, an inspiring atmosphere, and a team that truly cares. Here, you’ll feel motivated, valued, and ready to achieve your goals. It’s not just about muscles — it’s about mindset, progress, and team spirit.": "سيڤن جيم مش مجرد مكان تتمرن فيه — ده المكان اللي الشغف فيه بيقابل الاحترافية. كل تمرينة مش بس مجهود بدني، دي تجربة كاملة بأحدث الأجهزة العالمية، ونظافة تحفزك، وجو مشجع، وفريق بيهتم بيك فعلًا. هنا هتحس بالإلهام والقيمة، وهتلاقي نفسك قادر تحقق أهدافك. الموضوع مش بس عضلات — ده عقلية، وتطور، وروح فريق.",
+
+  "about_gym": {
+    "text": "جيم سيفن مش مجرد مكان للتمرين — ده المكان اللي الشغف فيه بيقابل الاحتراف. كل تمرينة مش مجرد مجهود بدني، لكنها تجربة متكاملة بأجهزة عالمية، ونظافة استثنائية، وجو تحفيزي، وفريق بيهتم فعلاً. هنا هتحس إنك متقدّر، ومتحفّز، وجاهز تحقق أهدافك. الموضوع مش بس عضلات — ده عقلية، وتطور، وروح فريق."
+  },
+
+  "powerzone": {
+    "title1": "تخطَّ",
+    "title2": "حدودك",
+    "title3": "القصوى",
+    "subtitle": "قابل المحاربين اللي بيتمرنوا في جيمنا",
+
+    "members": {
+      "ziad": {
+        "role": "لاعب كمال أجسام",
+        "title": "في جيمنا القوة بتقابل الانضباط. زياد بيُلهم الكل بإصراره والتزامه الشديد، وبيحول كل تحدي لفرصة جديدة للقوة والتحفيز."
+      },
+      "bahaa": {
+        "role": "مدرب شخصي",
+        "title": "بهاء بيقدم الشغف والدقة في كل تمرينة. مؤمن إن الفتنس أسلوب حياة، وبيساعد الأعضاء يكتشفوا قدراتهم، ويتخطوا حدودهم، ويبنوا ثقة دائمة من خلال تدريب ذكي ومتوازن."
+      },
+      "irvin": {
+        "role": "مدرب كروس فيت",
+        "title": "إرفين بيحوّل كل حصة كروس فيت لتحدي في التحمل والقوة. بيحفّز الأعضاء يتحركوا بهدف، ويبنوا صلابة، ويعيشوا تجربة الالتزام الحقيقي في كل تمرينة."
+      },
+      "irvin2": {
+        "role": "مدرب قوة",
+        "title": "إرفين بيبدأ من الأساس — بيعلم التكنيك الصحيح والعقلية القوية. كل رفعة بتكون رمز للتقدم والطاقة اللي بتميز مجتمعنا الرياضي."
+      },
+      "ziad2": {
+        "role": "موديل لياقة بدنية",
+        "title": "زياد بيمثل الجانب الجمالي في الفتنس — التوازن، والانضباط، والسيطرة. رحلته بتفكر الكل إن الجسم المثالي بيتبني بالالتزام اليومي والتركيز والإصرار."
+      },
+      "irv": {
+        "role": "رياضي محترف",
+        "title": "إرفين مثال للرياضي الحقيقي في الروح والأداء. بيكسر الحدود مع كل حركة، وبيجسد قيم جيمنا — الالتزام، التطور، والشغف في السعي للقوة كل يوم."
+      }
+    }
+  }
 }
