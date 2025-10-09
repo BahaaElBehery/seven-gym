@@ -105,5 +105,38 @@
   "Behind every transformation, there’s a personal trainer who believed in you before you believed in yourself.": "Behind every transformation, there’s a personal trainer who believed in you before you believed in yourself.",
   "Strength training isn't just about lifting weights – it's about lifting your confidence, resilience, and power in life.": "Strength training isn't just about lifting weights – it's about lifting your confidence, resilience, and power in life.",
   "Bodybuilding is an art – your body is the canvas, and every rep is a brushstroke shaping a masterpiece.": "Bodybuilding is an art – your body is the canvas, and every rep is a brushstroke shaping a masterpiece.",
-  "Seven Gym isn’t just a place to train — it’s where passion meets professionalism. Every workout is more than just physical effort; it’s a complete experience with world-class equipment, spotless cleanliness, an inspiring atmosphere, and a team that truly cares. Here, you’ll feel motivated, valued, and ready to achieve your goals. It’s not just about muscles — it’s about mindset, progress, and team spirit.": "Seven Gym isn’t just a place to train — it’s where passion meets professionalism. Every workout is more than just physical effort; it’s a complete experience with world-class equipment, spotless cleanliness, an inspiring atmosphere, and a team that truly cares. Here, you’ll feel motivated, valued, and ready to achieve your goals. It’s not just about muscles — it’s about mindset, progress, and team spirit."
+  "Seven Gym isn’t just a place to train — it’s where passion meets professionalism. Every workout is more than just physical effort; it’s a complete experience with world-class equipment, spotless cleanliness, an inspiring atmosphere, and a team that truly cares. Here, you’ll feel motivated, valued, and ready to achieve your goals. It’s not just about muscles — it’s about mindset, progress, and team spirit.": "Seven Gym isn’t just a place to train — it’s where passion meets professionalism. Every workout is more than just physical effort; it’s a complete experience with world-class equipment, spotless cleanliness, an inspiring atmosphere, and a team that truly cares. Here, you’ll feel motivated, valued, and ready to achieve your goals. It’s not just about muscles — it’s about mindset, progress, and team spirit.",
+
+  "powerzone": {
+    "title1": "PUSH",
+    "title2": "BEYOND",
+    "title3": "LIMITS",
+    "subtitle": "Meet the warriors training at our gym",
+    "members": {
+      "ziad": {
+        "role": "Bodybuilder",
+        "title": "At our gym, strength meets discipline. Ziad inspires everyone with his relentless dedication to training, pushing beyond limits, and transforming every challenge into pure muscle power and motivation."
+      },
+      "bahaa": {
+        "role": "Personal Trainer",
+        "title": "Bahaa brings passion and precision to every workout. He believes fitness is a lifestyle, guiding members to discover their potential, break barriers, and build lasting confidence through smart training."
+      },
+      "irvin": {
+        "role": "CrossFit Coach",
+        "title": "Irvin turns every CrossFit session into a challenge of endurance and strength. He motivates members to move with purpose, build resilience, and embrace the power of consistent hard work and focus."
+      },
+      "irvin2": {
+        "role": "Strength Coach",
+        "title": "Focused on building strength from the ground up, IrVin teaches proper form and powerful mindset. Every lift becomes a symbol of progress and the energy that defines our gym community."
+      },
+      "ziad2": {
+        "role": "Fitness Model",
+        "title": "Ziad represents the aesthetic side of fitness — balance, discipline, and control. His journey reminds everyone that great physiques are built through daily effort, focus, and pure determination."
+      },
+      "irv": {
+        "role": "Athlete",
+        "title": "A true athlete in spirit and performance, IrVin pushes limits with every rep. His drive embodies what our gym stands for — commitment, growth, and a passion for becoming stronger every day."
+      }
+    }
+  }
 }

@@ -119,17 +119,30 @@ const Header = () => {
 
       {popup && (
         <div
-          className="w-full h-screen fixed top-0 left-0 bg-black/30 z-[50] hidden max-lg:flex"
+          className="w-full h-screen fixed top-0 left-0 bg-black/30 z-[100] hidden max-lg:flex"
           dir="ltr"
         >
           <div
-            className="w-[300px] max-sm:w-[200px] h-full bg-gray-100 px-8"
+            className="w-[300px] max-sm:w-[200px] h-full bg-gray-100 px-8 "
             ref={popupRef}
           >
             <div
-              className="flex flex-col mt-32"
+              className="flex flex-col"
               dir={i18n.language === "ar" ? "rtl" : "ltr"}
             >
+              <h1
+                className={`text-2xl max-sm:text-2xl font-extrabold tracking-[15px] text-center py-10`}
+              >
+                <span className={`${popup ? "text-black" : "text-white"}`}>
+                  SEVEN
+                </span>
+                <br />
+                <span className={`${popup ? "text-black" : "text-white"}`}>
+                  G
+                </span>
+                <span className="text-orange-400">YM</span>
+              </h1>
+
               {links.map((e, i) => {
                 return (
                   <div className="mb-6" key={i}>
