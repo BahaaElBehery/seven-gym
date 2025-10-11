@@ -9,7 +9,7 @@ const About_Us = () => {
     <>
       <SwiperSec
         img1="/Images/about-us.jpeg"
-        img2={`/Images/about-us2.jpeg`}
+        img2={`/Images/persons/6678dcd2-d1a5-4bb0-90b4-131ed16ba46f.jpeg`}
         img3={`/Images/about-us3.jpeg`}
       />
       <Equipment_Sec />
