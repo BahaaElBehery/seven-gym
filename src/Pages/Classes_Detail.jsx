@@ -10,7 +10,7 @@ const Classes_Detail = () => {
       <SwiperSec
         img1="/Images/classes-1.jpg"
         img2="/Images/classes-2.jpg"
-        img3="/Images/classes-3.jpg"
+        img3="/Images/persons/bahaa.jpeg"
       />
       <GridCom />
       <TRainerComponent />

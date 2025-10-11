@@ -8,9 +8,9 @@ const Services = () => {
   return (
     <>
       <SwiperSec
-        img1="/Images/services.webp"
-        img2="/Images/services2.webp"
-        img3="/Images/services3.webp"
+        img1="/Images/persons/s1.jpeg"
+        img2="/Images/persons/s2.jpeg"
+        img3="/Images/persons/448e4eb9-34bd-4f44-a0c1-d4e85cf790aa.jpeg"
       />
 
       <GridSecServices />
